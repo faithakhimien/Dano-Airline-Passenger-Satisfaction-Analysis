@@ -2,7 +2,7 @@
 
 ![](https://github.com/faithakhimien/Dano-Airline-Passenger-Satisfaction-Analysis/blob/main/Dano%20Airline%201.png)
 
-## Introduction
+## Introduction:
 
 Dano Airlines, a UK-based airline headquartered in London, recently recorded a passenger satisfaction rate below 50% for the first time. This decline signals growing dissatisfaction among customers and presents a major business concern, as customer satisfaction directly influences loyalty, retention, and profitability.
 
